@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.commandcode/
+
+.env
+.env.local
+.env.*.local
+
+# Original AI Studio export (not part of the app source)
+remix-wizard-chess-3d-*/
+remix-wizard-chess-3d-*.zip
